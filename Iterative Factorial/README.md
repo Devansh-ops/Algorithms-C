@@ -1,7 +1,7 @@
 # Question
 Write a C program to find the factorial of a given number iteratively.
 
-For example:
+## Test cases
 
 | Input	| Result|
 | ----- | ------|
